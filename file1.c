@@ -14,5 +14,6 @@ int main()
 	printf("Hello ST 2\n");
 
 	printf("fast forward branch\n");
+	printf("fast forward branch 1\n");
 
 }
