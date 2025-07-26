@@ -25,6 +25,9 @@ int main()
 
 	printf("new confict commit for main 1")
 	printf("new confict commit for main 1")
+	
+	printf("new confict commit for main 2")
+	printf("new confict commit for main 2")
 
 
 }
