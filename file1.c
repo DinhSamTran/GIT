@@ -16,4 +16,6 @@ int main()
 	printf("fast forward branch\n");
 	printf("fast forward branch 1\n");
 
+	printf("new commit for main")
+
 }
