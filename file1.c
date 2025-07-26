@@ -23,11 +23,13 @@ int main()
 	printf("new commit for main")
 	printf("new commit for main")
 	printf("new commit for main")
-	printf("new commit for main")
+	printf("new commit for main1")
+	printf("new commit for main1")
 
-
-	printf("new confict commit for main")
-	printf("new confict commit for main")
+	printf("new confict commit for main 234 ")
+	printf("new confict commit for main 234 ")
+	printf("new confict commit for main 234 ")
+	printf("new confict commit for main 234 ")
 
 
 }
